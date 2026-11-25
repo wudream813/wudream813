@@ -42,7 +42,7 @@
 
 ### Competitive Programming
 
-[![Luogu](https://img.shields.io/badge/Luogu-yuhong056-0E90D2?style=for-the-badge&logo=lua&logoColor=white)](https://www.luogu.com.cn/user/yuhong056)
+[![Luogu](https://img.shields.io/badge/Luogu-yuhong056-0E90D2?style=for-the-badge&logo=lua&logoColor=white)](https://www.luogu.com.cn/user/1070026)
 [![Codeforces](https://img.shields.io/badge/Codeforces-yuhong056-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/yuhong056)
 [![AtCoder](https://img.shields.io/badge/AtCoder-yuhong056-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/yuhong056)
 
